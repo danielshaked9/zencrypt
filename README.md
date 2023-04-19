@@ -36,6 +36,11 @@ To decrypt files in the current directory, use the `--decrypt` or `-d` option:
 ```
   sudo zencrypt -d
 ```  
+
+## Tip
+
+  zencrypt can be used recursively over and over on the same files
+  
 ## Warning
 
 Losing the key file located at `/root/keys/key.key` will make it nearly impossible to restore the encrypted files. To avoid this risk, consider backing up the key file to a secure location, such as an encrypted USB drive, external hard drive, or secure cloud storage.
