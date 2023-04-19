@@ -21,7 +21,7 @@ Zencrypt is a simple file encryption and decryption tool that helps protect your
 ```
 3. Run the installation script:
 ```
-  sudo ./install_zencrypt.sh
+  sudo ./install.sh
 ``` 
   This will create the `/root/keys` directory, move the `zencrypt.py` script to `/root/keys/encrypt.py`, and move the `zencrypt` shell script to `/sbin/zencrypt`.
 
