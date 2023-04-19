@@ -34,7 +34,7 @@ To encrypt files in the current directory, simply run:
 
 To decrypt files in the current directory, use the `--decrypt` or `-d` option:
 ```
-  sudo zencrypt --decrypt or sudo zencrypt -d
+  sudo zencrypt -d
 ```  
 ## Warning
 
